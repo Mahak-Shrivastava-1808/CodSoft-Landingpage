@@ -37,6 +37,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: white;
+    font-size: 20px;
 }
 nav ul li a:hover {
     color:rgb(228, 69, 96);
@@ -57,7 +58,7 @@ nav ul li button:active{
     color: white;
 }
 .left {
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-family: poppines;
     color: rgb(102, 195, 238);
 }
@@ -80,12 +81,13 @@ nav ul li button:active{
     text-align: center;
     padding: 20px;
     max-width: 80vw;
-    height: 90vh;
+    height: 92vh;
     margin: 0 70px;
 }
 .SecondSection h2{
-    font-size: 2.5rem;
-    color: black;
+    font-size: 60px;
+    color:white;
+    -webkit-text-stroke: 2px black;
     margin-bottom: 10px;
 }
 .SecondSection .box{
@@ -132,7 +134,7 @@ nav ul li button:active{
     text-align: right;
     width: 100px;
     position: relative;
-    left: 80px;
+    left: 100px;
     bottom: 30px;
     transform: translate(-50%, -50%);
     color: #cf0909;
@@ -152,12 +154,13 @@ nav ul li button:active{
     text-align: center;
     padding: 20px;
     max-width: 80vw;
-    height: 90vh;
+    height: 80vh;
     margin: 0 70px;
 }
 .thirdSection h2{
-    font-size: 2.5rem;
-    color: black;
+    font-size: 60px;
+    color:white;
+    -webkit-text-stroke: 2px black;
     margin-bottom: 10px;
 }
 .thirdSection .box{
